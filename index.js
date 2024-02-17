@@ -1,3 +1,4 @@
+// IMPORTANT !  please use npm install discord.js to install packages needed for this file
 // Enabling intents for bot
 const { Client, GatewayIntentBits } = require('discord.js');
 const { message } = require('prompt');
