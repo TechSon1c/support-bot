@@ -1,2 +1,2 @@
-# Discord-bot-productive
-A working customizable discord bot, create questions as commands and type your own answers so you can share information between teams.
+# Discord-chatbot
+A working customizable discord bot written in node.js, create questions as commands and type your own answers so you can share information between teams.
