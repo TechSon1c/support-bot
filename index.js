@@ -1,4 +1,4 @@
-// IMPORTANT !  please use npm install discord.js to install packages needed for this file
+// IMPORTANT !  please use npm install discord.js to install packages needed for this file // add install prompt to it if you want to host it, mostly needed for hosting
 // Enabling intents for bot
 const { Client, GatewayIntentBits } = require('discord.js');
 const { message } = require('prompt');
